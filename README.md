@@ -1,3 +1,23 @@
+# Projet Doriane
+
+## À faire
+
+- [x] Créer l'architecture du projet
+- [x] Faire fonctionner le routeur
+- [ ] Connecter l'interface avec la base de données
+  - [ ] Brancher l'interface avec la base de données
+- [ ] Brancher les controllers restants avec leur modèle et leur vue
+- [ ] Faire fonctionner daypilot
+- [ ] Utiliser la moquette pour le design de la page
+- [ ] Ajouter le style avec Tailwind
+
+---
+
+- [ ] Faire la page de login si on a le temps et la motivation
+
+
+
+
 # Arborescence Appli Doriane
 
 Page **Accueil** (Contenu à définir)
